@@ -1,0 +1,286 @@
+TGoogle_4
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/main.o /Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Products/Debug/Google_4 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052FADF50000000000000044C
+t1392172880
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005243E09F00000000000001DB
+t1380180127
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c0000000052FADF5A000000000000681C
+t1392172890
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c0000000052FADF5A000000000006E8B0
+t1392172890
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c0000000052FADF5A0000000000004734
+t1392172890
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000052FADF5A000000000000FC6C
+t1392172890
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052FADF5A000000000000F6A0
+t1392172890
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c0000000052FADF5A0000000000006254
+t1392172890
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000052FADF5A000000000000E0F8
+t1392172890
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c0000000052FADF5A000000000000D6DC
+t1392172890
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c0000000052FADF5A0000000000006308
+t1392172890
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c0000000052FADF5A0000000000004050
+t1392172890
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c0000000052FADF5A0000000000008570
+t1392172890
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c0000000052FADF5A0000000000005EA0
+t1392172890
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c0000000052FADF5A0000000000005FAC
+t1392172890
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c0000000052FADF5A0000000000004440
+t1392172890
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c0000000052FADF5A000000000000AA28
+t1392172890
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c0000000052FADF5A0000000000003E2C
+t1392172890
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c0000000052FADF5B0000000000030A24
+t1392172891
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c0000000052FADF5A0000000000005E54
+t1392172890
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c0000000052FADF5A0000000000006A90
+t1392172890
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c0000000052FADF5A00000000000178AC
+t1392172890
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c0000000052FADF5A000000000001ADC8
+t1392172890
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c0000000052FADF5A000000000001028C
+t1392172890
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c0000000052FADF5A0000000000008800
+t1392172890
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052FADF5A0000000000011090
+t1392172890
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c0000000052FADF5A000000000000882C
+t1392172890
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c0000000052FADF5A00000000000067AC
+t1392172890
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c0000000052FADF5A0000000000008DEC
+t1392172890
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c0000000052FADF5A0000000000004C08
+t1392172890
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c0000000052FADF5A00000000000023C0
+t1392172890
+s9152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c0000000052FADF5A000000000000439C
+t1392172890
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c0000000052FADF5A0000000000006768
+t1392172890
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c0000000052FADF5A00000000000172F4
+t1392172890
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c0000000052FADF870000000000001750
+t1392172935
+s5968
+
+N/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/Google_4.LinkFileList
+c00000000534976120000000000000095
+t1397323282
+s149
+
+N/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/main.o
+t1397578299
+s329544
+
+N/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Products/Debug/Google_4
+t1397577774
+s88892
+
+N/Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp
+c00000000534D5A3B0000000000000C36
+t1397578299
+s3126
+
+CBuild AST from /Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies855b3abb91fdb841^91b53abb91fdb841^---0#1#1#--18"Check dependencies36"74AF8696-1441-474C-8B3E-3CDEA4EBE94A-
+
+CCompileC DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/main.o /Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419271099.228880
+e419271100.004195
+r1
+xCompileC
+xDerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/main.o
+x/Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp
+o/Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp:28:18: warning: unused variable 'vec_size' [-Wunused-variable]
+o    unsigned int vec_size = 0;
+o                 ^
+o/Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp:47:12: warning: unused variable 'told_naomi' [-Wunused-variable]
+o    double told_naomi;
+o           ^
+o/Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp:45:12: warning: unused variable 'chosen_naomi' [-Wunused-variable]
+o    double chosen_naomi;
+o           ^
+o/Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp:46:12: warning: unused variable 'chosen_ken' [-Wunused-variable]
+o    double chosen_ken;
+o           ^
+o4 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp194"CompileC DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/main.o Google_4/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4eb53abb91fdb841^be1101bc91fdb841^-686"/Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp:28:18: warning: unused variable 'vec_size' [-Wunused-variable]    unsigned int vec_size = 0;                 ^/Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp:47:12: warning: unused variable 'told_naomi' [-Wunused-variable]    double told_naomi;           ^/Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp:45:12: warning: unused variable 'chosen_naomi' [-Wunused-variable]    double chosen_naomi;           ^/Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp:46:12: warning: unused variable 'chosen_ken' [-Wunused-variable]    double chosen_ken;           ^4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@26"Unused variable 'vec_size'-419271100#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@67"file:///Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp0000000000000000^27#17#27#17#695#0#19"Unused Entity Issue--2@28"Unused variable 'told_naomi'-419271100#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@67"file:///Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp0000000000000000^46#11#46#11#1105#0#19"Unused Entity Issue--2@30"Unused variable 'chosen_naomi'-419271100#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@67"file:///Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp0000000000000000^44#11#44#11#1057#0#19"Unused Entity Issue--2@28"Unused variable 'chosen_ken'-419271100#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@67"file:///Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp0000000000000000^45#11#45#11#1082#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@67"file:///Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp0000000000000000^3138"CompileC DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/main.o Google_4/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anassaeed/Documents/Google/Google_4    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Google_4-generated-files.hmap -I/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Google_4-own-target-headers.hmap -I/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Google_4-all-target-headers.hmap -iquote /Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Google_4-project-headers.hmap -I/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/DerivedSources/x86_64 -I/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/DerivedSources -F/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Products/Debug -MMD -MT dependencies -MF /Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/main.dia -c /Users/anassaeed/Documents/Google/Google_4/Google_4/main.cpp -o /Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/main.o36"B5279523-0FB8-4D5D-8FDE-795572DFEF8E-
+b2987853D-218A-4E5B-8F3A-0A019A8515A8
+
+CLd /Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Products/Debug/Google_4 normal x86_64
+s419271100.006599
+e419271100.031371
+r1
+xLd
+x/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Products/Debug/Google_4
+xnormal
+xx86_64
+d/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/Google_4.LinkFileList
+d/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Link /Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Products/Debug/Google_467"Ld DerivedData/Google_4/Build/Products/Debug/Google_4 normal x86_6461c501bc91fdb841^a70808bc91fdb841^---0#0#1#--1072"Ld DerivedData/Google_4/Build/Products/Debug/Google_4 normal x86_64    cd /Users/anassaeed/Documents/Google/Google_4    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Products/Debug -F/Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Products/Debug -filelist /Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/Google_4.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Intermediates/Google_4.build/Debug/Google_4.build/Objects-normal/x86_64/Google_4_dependency_info.dat -o /Users/anassaeed/Documents/Google/Google_4/DerivedData/Google_4/Build/Products/Debug/Google_436"0D1CB651-AA48-42DB-B74D-BD5B71FC429B-
+b2987853D-218A-4E5B-8F3A-0A019A8515A8
+

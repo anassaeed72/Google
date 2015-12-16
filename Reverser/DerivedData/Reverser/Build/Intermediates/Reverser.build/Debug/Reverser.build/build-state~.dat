@@ -1,0 +1,112 @@
+TReverser
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/main.o /Users/anassaeed/Documents/Google/Reverser/Reverser/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Products/Debug/Reverser normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052FADF50000000000000044C
+t1392172880
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005243E09F00000000000001DB
+t1380180127
+s475
+
+N/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/Reverser.LinkFileList
+c000000005381D7910000000000000095
+t1401018257
+s149
+
+N/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/main.o
+t1401018258
+s239752
+
+N/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Products/Debug/Reverser
+t2
+s0
+
+N/Users/anassaeed/Documents/Google/Reverser/Reverser/main.cpp
+c000000005381D791000000000000044F
+t1401018257
+s1103
+
+CBuild AST from /Users/anassaeed/Documents/Google/Reverser/Reverser/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesce53f5110f32b941^a3caf8110f32b941^---0#1#1#--18"Check dependencies36"C2D02507-6FB9-43FB-9538-5F4D483B8A44-
+
+CCompileC DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/main.o /Users/anassaeed/Documents/Google/Reverser/Reverser/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422711057.972856
+e422711058.862799
+r1
+xCompileC
+xDerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/main.o
+x/Users/anassaeed/Documents/Google/Reverser/Reverser/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anassaeed/Documents/Google/Reverser/Reverser/main.cpp
+o/Users/anassaeed/Documents/Google/Reverser/Reverser/main.cpp:15:18: warning: unused variable 'vec_size' [-Wunused-variable]
+o    unsigned int vec_size = 0;
+o                 ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/anassaeed/Documents/Google/Reverser/Reverser/main.cpp194"CompileC DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/main.o Reverser/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerad30f9110f32b941^addfdc120f32b941^-195"/Users/anassaeed/Documents/Google/Reverser/Reverser/main.cpp:15:18: warning: unused variable 'vec_size' [-Wunused-variable]    unsigned int vec_size = 0;                 ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@26"Unused variable 'vec_size'-422711058#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@67"file:///Users/anassaeed/Documents/Google/Reverser/Reverser/main.cpp0000000000000000^14#17#14#17#388#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@67"file:///Users/anassaeed/Documents/Google/Reverser/Reverser/main.cpp0000000000000000^3138"CompileC DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/main.o Reverser/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anassaeed/Documents/Google/Reverser    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Reverser-generated-files.hmap -I/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Reverser-own-target-headers.hmap -I/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Reverser-all-target-headers.hmap -iquote /Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Reverser-project-headers.hmap -I/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/DerivedSources/x86_64 -I/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/DerivedSources -F/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Products/Debug -MMD -MT dependencies -MF /Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/main.dia -c /Users/anassaeed/Documents/Google/Reverser/Reverser/main.cpp -o /Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/main.o36"568A2431-9526-43D6-8629-193FAF42EC2B-
+b9F378D27-995F-48C3-8E64-62C7893AF9AF
+
+CLd /Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Products/Debug/Reverser normal x86_64
+s422711058.864294
+e422711058.961324
+r1
+xLd
+x/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Products/Debug/Reverser
+xnormal
+xx86_64
+d/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/Reverser.LinkFileList
+d/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Link /Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Products/Debug/Reverser67"Ld DerivedData/Reverser/Build/Products/Debug/Reverser normal x86_64ea58dd120f32b941^eb19f6120f32b941^---0#0#1#--1072"Ld DerivedData/Reverser/Build/Products/Debug/Reverser normal x86_64    cd /Users/anassaeed/Documents/Google/Reverser    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Products/Debug -F/Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Products/Debug -filelist /Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/Reverser.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Intermediates/Reverser.build/Debug/Reverser.build/Objects-normal/x86_64/Reverser_dependency_info.dat -o /Users/anassaeed/Documents/Google/Reverser/DerivedData/Reverser/Build/Products/Debug/Reverser36"8BC53A84-7E95-47DD-943D-5EC968D2690A-
+b9F378D27-995F-48C3-8E64-62C7893AF9AF
+

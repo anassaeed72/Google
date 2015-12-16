@@ -1,0 +1,115 @@
+TRecycle
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/main.o /Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Products/Debug/Recycle normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052FADF50000000000000044C
+t1392172880
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005243E09F00000000000001DB
+t1380180127
+s475
+
+N/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/Recycle.LinkFileList
+c00000000537DA0BA0000000000000091
+t1400742074
+s145
+
+N/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/main.o
+t1400742075
+s138988
+
+N/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Products/Debug/Recycle
+t2
+s0
+
+N/Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp
+c00000000537DA0BA00000000000009AB
+t1400742074
+s2475
+
+CBuild AST from /Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3449243ad82db941^bf0c2e3ad82db941^---0#1#1#--18"Check dependencies36"79CCA4F6-EEF3-4DED-AF09-99D0F028FE8D-
+
+CCompileC DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/main.o /Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422434874.180729
+e422434875.110751
+r1
+xCompileC
+xDerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/main.o
+x/Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp
+o/Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp:76:29: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o    for (int i = in.length()-1; i>=0; i--) {
+o             ~   ~~~~~~~~~~~^~
+o/Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp:109:32: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o        int index = in.length()-i;
+o            ~~~~~   ~~~~~~~~~~~^~
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp190"CompileC DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/main.o Recycle/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler97722e3ad82db941^16f91d3bd82db941^-500"/Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp:76:29: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]    for (int i = in.length()-1; i>=0; i--) {             ~   ~~~~~~~~~~~^~/Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp:109:32: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]        int index = in.length()-i;            ~~~~~   ~~~~~~~~~~~^~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-422434875#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@65"file:///Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp0000000000000000^75#28#75#28#1221#0#22"Value Conversion Issue2(3@65"file:///Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp0000000000000000^75#17#75#30#1210#12#3@65"file:///Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp0000000000000000^75#13#75#14#1206#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-422434875#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp0000000000000000^108#31#108#31#2085#0#22"Value Conversion Issue2(3@65"file:///Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp0000000000000000^108#20#108#33#2074#12#3@65"file:///Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp0000000000000000^108#12#108#17#2066#0#-0#0#1#-19%DVTDocumentLocation4@65"file:///Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp0000000000000000^3087"CompileC DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/main.o Recycle/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anassaeed/Documents/Google/Recycle    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Recycle-generated-files.hmap -I/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Recycle-own-target-headers.hmap -I/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Recycle-all-target-headers.hmap -iquote /Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Recycle-project-headers.hmap -I/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/DerivedSources/x86_64 -I/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/DerivedSources -F/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Products/Debug -MMD -MT dependencies -MF /Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/main.dia -c /Users/anassaeed/Documents/Google/Recycle/Recycle/main.cpp -o /Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/main.o36"850F57FE-B879-496C-B137-0D44C2507961-
+b7B4A08B8-9F41-48CF-BAAB-C0373F5D1FDA
+
+CLd /Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Products/Debug/Recycle normal x86_64
+s422434875.111824
+e422434875.463307
+r1
+xLd
+x/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Products/Debug/Recycle
+xnormal
+xx86_64
+d/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/Recycle.LinkFileList
+d/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Link /Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Products/Debug/Recycle65"Ld DerivedData/Recycle/Build/Products/Debug/Recycle normal x86_64d0b81c3bd82db941^04ca763bd82db941^---0#0#1#--1052"Ld DerivedData/Recycle/Build/Products/Debug/Recycle normal x86_64    cd /Users/anassaeed/Documents/Google/Recycle    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Products/Debug -F/Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Products/Debug -filelist /Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/Recycle.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Intermediates/Recycle.build/Debug/Recycle.build/Objects-normal/x86_64/Recycle_dependency_info.dat -o /Users/anassaeed/Documents/Google/Recycle/DerivedData/Recycle/Build/Products/Debug/Recycle36"F9422FCB-7541-4952-83FB-0D2E75E16224-
+b7B4A08B8-9F41-48CF-BAAB-C0373F5D1FDA
+

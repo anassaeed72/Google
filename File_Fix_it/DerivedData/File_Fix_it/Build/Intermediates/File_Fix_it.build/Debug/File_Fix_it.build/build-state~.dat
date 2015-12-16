@@ -1,0 +1,115 @@
+TFile_Fix_it
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/main.o /Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Products/Debug/File_Fix_it normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052FADF50000000000000044C
+t1392172880
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005243E09F00000000000001DB
+t1380180127
+s475
+
+N/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/File_Fix_it.LinkFileList
+c000000005381E65400000000000000A1
+t1401022036
+s161
+
+N/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/main.o
+t1401022037
+s290056
+
+N/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Products/Debug/File_Fix_it
+t2
+s0
+
+N/Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp
+c000000005381E65400000000000009DB
+t1401022036
+s2523
+
+CBuild AST from /Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese8f7d5d41d32b941^e71ce0d41d32b941^---0#1#1#--18"Check dependencies36"47E291C2-4D9D-4B52-92CF-818F0E7DF8AE-
+
+CCompileC DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/main.o /Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422714836.878013
+e422714837.748422
+r1
+xCompileC
+xDerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/main.o
+x/Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp
+o/Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp:16:18: warning: unused variable 'vec_size' [-Wunused-variable]
+o    unsigned int vec_size = 0;
+o                 ^
+o/Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp:33:18: warning: unused variable 'vec_size' [-Wunused-variable]
+o    unsigned int vec_size = 0;
+o                 ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp206"CompileC DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/main.o File_Fix_it/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4a24e1d41d32b941^6494bfd51d32b941^-382"/Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp:16:18: warning: unused variable 'vec_size' [-Wunused-variable]    unsigned int vec_size = 0;                 ^/Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp:33:18: warning: unused variable 'vec_size' [-Wunused-variable]    unsigned int vec_size = 0;                 ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@26"Unused variable 'vec_size'-422714837#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@73"file:///Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp0000000000000000^15#17#15#17#429#0#19"Unused Entity Issue--2@26"Unused variable 'vec_size'-422714837#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp0000000000000000^32#17#32#17#937#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@73"file:///Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp0000000000000000^3291"CompileC DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/main.o File_Fix_it/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anassaeed/Documents/Google/File_Fix_it    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/File_Fix_it-generated-files.hmap -I/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/File_Fix_it-own-target-headers.hmap -I/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/File_Fix_it-all-target-headers.hmap -iquote /Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/File_Fix_it-project-headers.hmap -I/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/DerivedSources/x86_64 -I/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/DerivedSources -F/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Products/Debug -MMD -MT dependencies -MF /Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/main.dia -c /Users/anassaeed/Documents/Google/File_Fix_it/File_Fix_it/main.cpp -o /Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/main.o36"2CB0BA30-0336-430B-93B9-8EE69C1E6800-
+b1ABD4AC9-3C38-421D-B4CC-A2698036A32C
+
+CLd /Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Products/Debug/File_Fix_it normal x86_64
+s422714837.749838
+e422714837.900625
+r1
+xLd
+x/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Products/Debug/File_Fix_it
+xnormal
+xx86_64
+d/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/File_Fix_it.LinkFileList
+d/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Link /Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Products/Debug/File_Fix_it73"Ld DerivedData/File_Fix_it/Build/Products/Debug/File_Fix_it normal x86_640c05c0d51d32b941^4790e6d51d32b941^---0#0#1#--1132"Ld DerivedData/File_Fix_it/Build/Products/Debug/File_Fix_it normal x86_64    cd /Users/anassaeed/Documents/Google/File_Fix_it    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Products/Debug -F/Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Products/Debug -filelist /Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/File_Fix_it.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Intermediates/File_Fix_it.build/Debug/File_Fix_it.build/Objects-normal/x86_64/File_Fix_it_dependency_info.dat -o /Users/anassaeed/Documents/Google/File_Fix_it/DerivedData/File_Fix_it/Build/Products/Debug/File_Fix_it36"6D29D1BD-3689-4ACE-8EF4-F1F2A39C6662-
+b1ABD4AC9-3C38-421D-B4CC-A2698036A32C
+
